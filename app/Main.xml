@@ -6,7 +6,7 @@
     <colorParam version="1.0"/>
   </params>
   <pages>
-    <page name="Home" ID="9E7EE126-BC99-4CF2-8433-3307DCE602C5" expanded="True" code="6M8gjEhbMl" thumbCode="6M8gjEhbMl" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Home" ID="9E7EE126-BC99-4CF2-8433-3307DCE602C5" expanded="True" code="lASFIp4kwl" thumbCode="lASFIp4kwl" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -19,7 +19,7 @@
         <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
       </images>
     </page>
-    <page name="Personal1" ID="6BB9F379-4984-45AD-9D68-31D906F5E2AB" expanded="True" code="LCLRg6xAat" thumbCode="LCLRg6xAat" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Personal1" ID="6BB9F379-4984-45AD-9D68-31D906F5E2AB" expanded="True" code="IoTsM5ADxG" thumbCode="IoTsM5ADxG" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -31,7 +31,7 @@
         <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
         <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
       </images>
-      <page name="Personal2" ID="3E850EF2-88AF-46C0-A23B-B21D81F15534" expanded="True" code="I5f6tQfWeL" thumbCode="I5f6tQfWeL" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Personal2" ID="3E850EF2-88AF-46C0-A23B-B21D81F15534" expanded="True" code="ipCTIsP5gc" thumbCode="I5f6tQfWeL" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
           <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -43,7 +43,7 @@
           <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
         </images>
       </page>
-      <page name="Personal3" ID="234B541F-815B-4F4C-BF55-8EEB2CDA5D2A" expanded="True" code="k9gqXcMKkK" thumbCode="k9gqXcMKkK" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Personal3" ID="234B541F-815B-4F4C-BF55-8EEB2CDA5D2A" expanded="True" code="CFD9v8ZDss" thumbCode="k9gqXcMKkK" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
           <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -56,7 +56,7 @@
         </images>
       </page>
     </page>
-    <page name="Statistics" ID="C2F5F56A-57C7-4024-B8EB-A1D8DCB44D6A" expanded="True" code="riEKjFeqhN" thumbCode="riEKjFeqhN" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Statistics" ID="C2F5F56A-57C7-4024-B8EB-A1D8DCB44D6A" expanded="True" code="fbIhy4jPLx" thumbCode="riEKjFeqhN" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -67,7 +67,7 @@
         <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
       </images>
     </page>
-    <page name="Forum" ID="6544BAF0-D03C-4D79-B44B-BFC3702636AA" expanded="True" code="DFXK84aq35" thumbCode="3AiAMiA3YT" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Forum" ID="6544BAF0-D03C-4D79-B44B-BFC3702636AA" expanded="True" code="m5zkUbkdbs" thumbCode="DFXK84aq35" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -78,7 +78,7 @@
         <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
       </images>
     </page>
-    <page name="About our product" ID="F9432005-DC76-486B-8849-E896EFF78EA2" expanded="True" code="sqXrS5X7vl" thumbCode="sqXrS5X7vl" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="About our product" ID="F9432005-DC76-486B-8849-E896EFF78EA2" expanded="True" code="51busRsttx" thumbCode="51busRsttx" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -89,7 +89,7 @@
         <image key="DEE1992F40344389DFA684F3CF6B928C.png"/>
         <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
       </images>
-      <page name="Market Research" ID="B02F3241-8109-49B1-AA8F-0542F63DCAA7" expanded="True" code="8y6ZReEKaz" thumbCode="8y6ZReEKaz" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Market Research" ID="B02F3241-8109-49B1-AA8F-0542F63DCAA7" expanded="True" code="Wmyb9D6Fbf" thumbCode="Wmyb9D6Fbf" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
           <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -100,7 +100,7 @@
           <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
         </images>
       </page>
-      <page name="Software" ID="D4B2A8A0-7D99-4A76-9488-E95257207CE7" expanded="True" code="qpKe8JapXe" thumbCode="qpKe8JapXe" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Software" ID="D4B2A8A0-7D99-4A76-9488-E95257207CE7" expanded="True" code="W42IQF3uJA" thumbCode="W42IQF3uJA" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
           <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -111,7 +111,7 @@
           <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
           <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
         </images>
-        <page name="Software1" ID="9619D94F-C465-42C7-9066-E8622094F18C" expanded="False" code="WnvSxakKP7" thumbCode="WnvSxakKP7" status="psWhite" isfolder="False" isshownode="True">
+        <page name="Software1" ID="9619D94F-C465-42C7-9066-E8622094F18C" expanded="False" code="Q6vTpiW2wR" thumbCode="Q6vTpiW2wR" status="psWhite" isfolder="False" isshownode="True">
           <images>
             <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
             <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -125,7 +125,7 @@
           </images>
         </page>
       </page>
-      <page name="Case Design" ID="B001667C-9D77-4E41-9343-E3A1D332D8D5" expanded="True" code="5rBVSHp3sY" thumbCode="5rBVSHp3sY" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Case Design" ID="B001667C-9D77-4E41-9343-E3A1D332D8D5" expanded="True" code="pyKXEoijGR" thumbCode="5rBVSHp3sY" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
           <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -135,7 +135,7 @@
           <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
           <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
         </images>
-        <page name="Case Design1" ID="E533E5C1-93EF-40D5-A587-4C816F10C52D" expanded="True" code="VHEgnEFK13" thumbCode="VHEgnEFK13" status="psWhite" isfolder="False" isshownode="True">
+        <page name="Case Design1" ID="E533E5C1-93EF-40D5-A587-4C816F10C52D" expanded="True" code="zx5WdEloIs" thumbCode="VHEgnEFK13" status="psWhite" isfolder="False" isshownode="True">
           <images>
             <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
             <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -149,7 +149,7 @@
           </images>
         </page>
       </page>
-      <page name="Basic introduction" ID="BA805979-716D-4A70-87CA-31ECCD3DB0E0" expanded="True" code="uuSBafGuWz" thumbCode="uuSBafGuWz" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Basic introduction" ID="BA805979-716D-4A70-87CA-31ECCD3DB0E0" expanded="True" code="AyyWV2d45M" thumbCode="uuSBafGuWz" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
           <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -161,7 +161,7 @@
           <image key="DEE1992F40344389DFA684F3CF6B928C.png"/>
           <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
         </images>
-        <page name="Basic introduction1" ID="CD11E667-2DC4-406B-8C07-623821EC2037" expanded="True" code="dROYzpf136" thumbCode="VMdN9ePwFj" status="psWhite" isfolder="False" isshownode="True">
+        <page name="Basic introduction1" ID="CD11E667-2DC4-406B-8C07-623821EC2037" expanded="True" code="wxGZ8ilbsC" thumbCode="wxGZ8ilbsC" status="psWhite" isfolder="False" isshownode="True">
           <images>
             <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
             <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -1082,9 +1082,9 @@
       </refPages>
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
-        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
         <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
         <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
       </images>
     </master>
