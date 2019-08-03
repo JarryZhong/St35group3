@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="F9432005-DC76-486B-8849-E896EFF78EA2" platform="MtWeb" defaultW="1400" defaultH="1200" measureW="1400" measureH="1200" mobileScreenScale="0">
-  <controls controlCount="44">
+  <controls controlCount="45">
     <control controlID="FFA3625D-EFE0-4B4C-AED0-FE7D1D5A560E" controlTypeID="Shape" x="0" y="0" w="1400" h="1200" zOrder="0">
       <color>4281808953</color>
       <borderColor>4281808953</borderColor>
@@ -105,15 +105,15 @@
     </control>
     <control controlID="089AEE16-FF76-419A-8684-0B6D116DA7D3" controlTypeID="Master" x="0" y="1120" w="1400" h="80" zOrder="8" masterID="24338112-78F9-4D38-8F21-F0FAFA2D27E7">
       <groupChildrenDescriptors>
-        <control controlID="1461667A-AD4B-4A5E-ADB0-DAE796F35EBC" controlTypeID="__group__" x="0" y="0" w="1400" h="80" zOrder="0">
+        <control controlID="8F4C2997-BD42-4FCC-AEDB-59DF49BE2E5C" controlTypeID="__group__" x="0" y="0" w="1400" h="80" zOrder="0">
           <groupChildrenDescriptors>
-            <control controlID="ABEFF743-41D3-4E9E-81D6-EA6448F26459" controlTypeID="Shape" x="0" y="0" w="1400" h="80" zOrder="0">
+            <control controlID="5363E741-C109-47B5-B831-2AAEC31BB21D" controlTypeID="Shape" x="0" y="0" w="1400" h="80" zOrder="0">
               <color>4279374612</color>
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="94F7B2D9-9EAC-458B-8E8C-5C0E7E2D22DE" controlTypeID="Label" x="20" y="30" w="105" h="19" zOrder="1">
+            <control controlID="B741C4D7-37CB-4691-9A70-3D1D32D9F98F" controlTypeID="Label" x="20" y="30" w="105" h="19" zOrder="1">
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <text>Our+Customers%EF%BC%9A</text>
               <textColor>4284900966</textColor>
@@ -121,7 +121,7 @@
               <useDefaultTextSize>False</useDefaultTextSize>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="F7866E05-B02E-487C-AC08-CD81447E81C7" controlTypeID="Label" x="853" y="32" w="310" h="16" zOrder="2">
+            <control controlID="CFA6F7A7-1851-48E5-8826-B52074D5BD50" controlTypeID="Label" x="853" y="32" w="310" h="16" zOrder="2">
               <color>16777215</color>
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <text>%C2%A9+2014-2018+Jongde+Software+LLC+All+rights+reserved.</text>
@@ -132,7 +132,7 @@
               <useDefaultTextSize>False</useDefaultTextSize>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="8E5C5520-1186-4110-9B34-FCDD85FF4329" controlTypeID="Icon" x="1276" y="28" w="24" h="24" zOrder="3">
+            <control controlID="B16C9F15-07F5-467D-AF87-35593CDF274A" controlTypeID="Icon" x="1276" y="28" w="24" h="24" zOrder="3">
               <states>
                 <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
               </states>
@@ -143,7 +143,7 @@
               </icon>
               <URL>4CEBA48D845888E06C868951A5E1A875.svg</URL>
             </control>
-            <control controlID="C9429B74-3BC2-4864-86AC-2BA0527748A7" controlTypeID="Icon" x="1317" y="28" w="24" h="24" zOrder="4">
+            <control controlID="7DEB34E1-22FE-4704-89BA-B245F28BD81F" controlTypeID="Icon" x="1317" y="28" w="24" h="24" zOrder="4">
               <states>
                 <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
               </states>
@@ -154,7 +154,7 @@
               </icon>
               <URL>520A776503D70E7FC53BE8D209CC96C1.svg</URL>
             </control>
-            <control controlID="6E9C01FD-E6C8-46F9-9B18-97DCCE251A46" controlTypeID="Icon" x="1356" y="28" w="24" h="24" zOrder="5">
+            <control controlID="D9F7C7D2-86AC-408B-8980-03034B7297D6" controlTypeID="Icon" x="1356" y="28" w="24" h="24" zOrder="5">
               <states>
                 <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
               </states>
@@ -165,7 +165,7 @@
               </icon>
               <URL>282331BE75C40FB6D299F787B7BFD38F.svg</URL>
             </control>
-            <control controlID="4B2F78F5-1888-4C7A-81B9-A731745D3FA8" controlTypeID="Icon" x="1234" y="28" w="24" h="24" zOrder="6">
+            <control controlID="4468D086-0CA7-44BD-AAFD-E624A88A53A0" controlTypeID="Icon" x="1234" y="28" w="24" h="24" zOrder="6">
               <states>
                 <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
               </states>
@@ -176,7 +176,7 @@
               </icon>
               <URL>24B6825248D2E3B41E6A51EC7FE24971.svg</URL>
             </control>
-            <control controlID="2E3A48C8-8F2B-43DE-B596-B77F69C796AD" controlTypeID="Icon" x="1191" y="27" w="26" h="26" zOrder="7">
+            <control controlID="24DDFE99-6067-4021-917E-8BBECD72C145" controlTypeID="Icon" x="1191" y="27" w="26" h="26" zOrder="7">
               <states>
                 <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4291611852" varType="20"/>
               </states>
@@ -187,48 +187,48 @@
               </icon>
               <URL>4529DADA0AD1F8BF89E5709239A0C3BD.svg</URL>
             </control>
-            <control controlID="2A3C28E7-1D1A-4452-9653-8198FD8AE469" controlTypeID="Repeater" x="152" y="25" w="560" h="30" zOrder="8">
+            <control controlID="84EAF17A-B7B9-436A-8CD7-28D0EC40143A" controlTypeID="Repeater" x="152" y="25" w="560" h="30" zOrder="8">
               <color>16777215</color>
               <groupChildrenDescriptors>
-                <control controlID="1707CD59-2748-4D98-91CB-7E16D0F608EA" controlTypeID="RepeaterItem" x="0" y="0" w="96" h="30" zOrder="0" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
+                <control controlID="F678BA80-633B-40A7-8FEE-FB4B8827E1CB" controlTypeID="RepeaterItem" x="0" y="0" w="96" h="30" zOrder="0" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
                   <canMove>False</canMove>
                   <groupChildrenDescriptors>
-                    <control controlID="80BF24C7-AB86-424B-B62C-46E4D0C8EE2D" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
+                    <control controlID="ADC62985-91A9-47E4-9B2D-2D53F995AF30" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
                       <caption>logo</caption>
                     </control>
                   </groupChildrenDescriptors>
                 </control>
-                <control controlID="65E5CDC5-CCC0-4B7A-BB3E-7C14F61AC72D" controlTypeID="RepeaterItem" x="116" y="0" w="96" h="30" zOrder="1" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
+                <control controlID="09D805F7-FBE3-4E2E-8DB1-B671DC9378D3" controlTypeID="RepeaterItem" x="116" y="0" w="96" h="30" zOrder="1" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
                   <canMove>False</canMove>
                   <groupChildrenDescriptors>
-                    <control controlID="EDF2EC3C-7B7F-4D41-9AB9-BE19DC42B320" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
+                    <control controlID="5CA4F1BA-111A-4F99-AF65-4D5340143B34" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
                       <caption>logo</caption>
                     </control>
                   </groupChildrenDescriptors>
                   <col>1</col>
                 </control>
-                <control controlID="1259E459-0C15-4AD1-89D7-0657FF54B155" controlTypeID="RepeaterItem" x="232" y="0" w="96" h="30" zOrder="2" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
+                <control controlID="18F535CB-22FA-40B7-AA53-3BC790BF701A" controlTypeID="RepeaterItem" x="232" y="0" w="96" h="30" zOrder="2" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
                   <canMove>False</canMove>
                   <groupChildrenDescriptors>
-                    <control controlID="246D2423-6E68-42F2-B531-0821CADF5631" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
+                    <control controlID="7BAC8CAC-A634-43C9-802D-B5538F699CBF" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
                       <caption>logo</caption>
                     </control>
                   </groupChildrenDescriptors>
                   <col>2</col>
                 </control>
-                <control controlID="06C273A5-4F7E-4BFD-9CC1-8C298C8A6D08" controlTypeID="RepeaterItem" x="348" y="0" w="96" h="30" zOrder="3" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
+                <control controlID="B6B320B4-FAE2-4452-B1C6-F72C1A345EBF" controlTypeID="RepeaterItem" x="348" y="0" w="96" h="30" zOrder="3" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
                   <canMove>False</canMove>
                   <groupChildrenDescriptors>
-                    <control controlID="B473127B-AFDC-45D3-9DFD-447C8EC2C548" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
+                    <control controlID="92C3C7E4-95BB-4C8B-933C-A8B43A3B2543" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
                       <caption>logo</caption>
                     </control>
                   </groupChildrenDescriptors>
                   <col>3</col>
                 </control>
-                <control controlID="5B74EA0A-E75F-43FD-9A30-625A57DD1443" controlTypeID="RepeaterItem" x="464" y="0" w="96" h="30" zOrder="4" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
+                <control controlID="F4DC33D5-71F1-4E39-A4CC-AF5E53BFF5CD" controlTypeID="RepeaterItem" x="464" y="0" w="96" h="30" zOrder="4" repeatID="730D9BBB-50E8-49B5-8E15-409F55CE4D53">
                   <canMove>False</canMove>
                   <groupChildrenDescriptors>
-                    <control controlID="B4907420-64AF-41F2-A512-8CF88F5659FA" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
+                    <control controlID="73B6DD66-38FE-498F-B24D-8B2E416F7D47" controlTypeID="Image" x="0" y="0" w="96" h="30" zOrder="0" repeatID="DBF5757C-5E7C-413D-A29F-B31266CE5774">
                       <caption>logo</caption>
                     </control>
                   </groupChildrenDescriptors>
@@ -294,7 +294,7 @@
       </groupChildrenDescriptors>
       <thinkness>1</thinkness>
     </control>
-    <control controlID="B6B11067-D1CD-44CA-9981-8AB1FC86F2C4" controlTypeID="Link" x="88" y="285" w="482" h="37" zOrder="15">
+    <control controlID="B6B11067-D1CD-44CA-9981-8AB1FC86F2C4" controlTypeID="Link" x="82" y="362" w="482" h="37" zOrder="15">
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
         <link targetPageID="BA805979-716D-4A70-87CA-31ECCD3DB0E0" linkType="ltPageLink" isApplyIncludePage="False" title="Basic+introduction">
           <area shape="0" alt="" ID="{3B0265A6-D005-4CE3-8ED9-998053A96D0A}" coords="(0,0,482,37)"/>
@@ -307,14 +307,14 @@
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="126E4694-B60A-43A9-9905-E94D3E4326CF" controlTypeID="TextArea" x="33" y="222" w="1295" h="53" zOrder="16">
+    <control controlID="126E4694-B60A-43A9-9905-E94D3E4326CF" controlTypeID="TextArea" x="27" y="299" w="1295" h="53" zOrder="16">
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>There+are+some+useful+imformation+about+our+MECH4100+group+35+project.</text>
       <textSize>28</textSize>
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="2CED3AC6-5CC3-4B0D-867E-609A0A09F21C" controlTypeID="Link" x="338" y="515" w="162" h="37" zOrder="17">
+    <control controlID="2CED3AC6-5CC3-4B0D-867E-609A0A09F21C" controlTypeID="Link" x="332" y="579" w="162" h="37" zOrder="17">
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
         <link targetPageID="B001667C-9D77-4E41-9343-E3A1D332D8D5" linkType="ltPageLink" isApplyIncludePage="False" title="Case+Design">
           <area shape="0" alt="" ID="{0C2398C3-7C32-4BE2-A061-4F793FFF2194}" coords="(0,0,162,37)"/>
@@ -327,7 +327,7 @@
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="4C9FB771-CE95-4912-873B-5E9657FD56DD" controlTypeID="Link" x="338" y="582" w="117" h="37" zOrder="18">
+    <control controlID="4C9FB771-CE95-4912-873B-5E9657FD56DD" controlTypeID="Link" x="332" y="646" w="117" h="37" zOrder="18">
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
         <link targetPageID="D4B2A8A0-7D99-4A76-9488-E95257207CE7" linkType="ltPageLink" isApplyIncludePage="False" title="Software">
           <area shape="0" alt="" ID="{A2B3E56E-F320-49C9-B0B8-506694D67885}" coords="(0,0,117,37)"/>
@@ -340,14 +340,14 @@
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="636C36D1-F95B-4069-833B-E3555A3B1CD1" controlTypeID="TextArea" x="33" y="411" w="1295" h="86" zOrder="19">
+    <control controlID="636C36D1-F95B-4069-833B-E3555A3B1CD1" controlTypeID="TextArea" x="27" y="475" w="1295" h="86" zOrder="19">
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>In+this+project%2C+our+group+would+be+divided+into+3+group%2C+they+are+Case+Design+group%2C+Software+group+and+Market+Research+group.</text>
       <textSize>28</textSize>
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="1EE53CFB-B5AA-4FCC-B0EE-41372568AF45" controlTypeID="Link" x="338" y="644" w="222" h="37" zOrder="20">
+    <control controlID="1EE53CFB-B5AA-4FCC-B0EE-41372568AF45" controlTypeID="Link" x="332" y="708" w="222" h="37" zOrder="20">
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
         <link targetPageID="B02F3241-8109-49B1-AA8F-0542F63DCAA7" linkType="ltPageLink" isApplyIncludePage="False" title="Market+Research">
           <area shape="0" alt="" ID="{B517E9E8-A72C-4ED6-A08B-CA8F1C0268C2}" coords="(0,0,222,37)"/>
@@ -360,13 +360,28 @@
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="7BE075E9-448F-4A3A-97C0-B51ACA141FAD" controlTypeID="Image" x="33" y="532" w="245" h="149" zOrder="21">
+    <control controlID="7BE075E9-448F-4A3A-97C0-B51ACA141FAD" controlTypeID="Image" x="27" y="596" w="245" h="149" zOrder="21">
+      <externalURL>https%3A%2F%2Fwww.stmicroelectronics.com.cn%2Fcontent%2Fst_com%2Fen.html</externalURL>
       <URL>DEE1992F40344389DFA684F3CF6B928C.png</URL>
     </control>
-    <control controlID="8E9AC790-1C28-4D91-8F18-FBD937EB5DEB" controlTypeID="Link" x="88" y="351" w="799" h="37" zOrder="22">
+    <control controlID="8E9AC790-1C28-4D91-8F18-FBD937EB5DEB" controlTypeID="Link" x="82" y="420" w="841" h="37" zOrder="22">
       <externalURL>https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScBxNZG-C5JYtXDJtMut8QSYwZDEb0jdtsyEDQmMkBfrmtgog%2Fviewform%3Fusp%3Dsf_link</externalURL>
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
-      <text>Survey+for+market+reaserach%2C+thanks+for+attend+the+research.</text>
+      <text>Survey+for+market+reaserach%2C+thanks+for+attending+the+research.</text>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4CAF03C5-732E-4421-B176-D2B3A3B2D9D9" controlTypeID="Link" x="27" y="242" w="378" h="37" zOrder="23">
+      <externalURL>https%3A%2F%2Fwww.stmicroelectronics.com.cn%2Fcontent%2Fst_com%2Fen.html</externalURL>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="BA805979-716D-4A70-87CA-31ECCD3DB0E0" linkType="ltPageLink" isApplyIncludePage="False" title="Basic+introduction">
+          <area shape="0" alt="" ID="{3B0265A6-D005-4CE3-8ED9-998053A96D0A}" coords="(0,0,378,37)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home+of+STMicroelectronics</text>
       <textSize>28</textSize>
       <lineSpacing>0</lineSpacing>
       <useDefaultTextSize>False</useDefaultTextSize>
