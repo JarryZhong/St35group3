@@ -6,7 +6,7 @@
     <colorParam version="1.0"/>
   </params>
   <pages>
-    <page name="Home" ID="9E7EE126-BC99-4CF2-8433-3307DCE602C5" expanded="True" code="lASFIp4kwl" thumbCode="lASFIp4kwl" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Home" ID="9E7EE126-BC99-4CF2-8433-3307DCE602C5" expanded="True" code="lyzAOBDzOV" thumbCode="lyzAOBDzOV" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -19,7 +19,7 @@
         <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
       </images>
     </page>
-    <page name="Personal1" ID="6BB9F379-4984-45AD-9D68-31D906F5E2AB" expanded="True" code="iYsKXFam4C" thumbCode="iYsKXFam4C" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Personal1" ID="6BB9F379-4984-45AD-9D68-31D906F5E2AB" expanded="True" code="iYsKXFam4C" thumbCode="iYsKXFam4C" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -78,7 +78,7 @@
         <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
       </images>
     </page>
-    <page name="About our product" ID="F9432005-DC76-486B-8849-E896EFF78EA2" expanded="True" code="JikBvDWi3G" thumbCode="JikBvDWi3G" status="psWhite" isfolder="False" isshownode="True">
+    <page name="About our product" ID="F9432005-DC76-486B-8849-E896EFF78EA2" expanded="True" code="4q4NdPEQdR" thumbCode="4q4NdPEQdR" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -101,7 +101,7 @@
           <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
         </images>
       </page>
-      <page name="Market Research1" ID="AE64BA0F-2A40-4799-B2A1-89CF3F8FE6E9" expanded="False" code="jAOJP55sgm" thumbCode="jAOJP55sgm" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Market Research1" ID="AE64BA0F-2A40-4799-B2A1-89CF3F8FE6E9" expanded="False" code="aerm1cc1DW" thumbCode="aerm1cc1DW" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
           <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
@@ -1122,9 +1122,9 @@
       </refPages>
       <images>
         <image key="520A776503D70E7FC53BE8D209CC96C1.svg"/>
-        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
         <image key="24B6825248D2E3B41E6A51EC7FE24971.svg"/>
         <image key="4529DADA0AD1F8BF89E5709239A0C3BD.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
         <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
       </images>
     </master>
